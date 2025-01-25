@@ -14,7 +14,7 @@ The aim of this project is to leverage data analysis to provide actionable insig
 - **Data Analysis**
 - **Data Cleaning**
 - **Data Processing**
-- **Dashboard Creation**
+- **Report Creation**
 
 ---
 
@@ -61,7 +61,7 @@ The aim of this project is to leverage data analysis to provide actionable insig
 ## Project Files
 - **Excel Workbook:** Contains cleaned data, analysis, and visualizations.
 - **Documentation:** Detailed report of findings and recommendations.
-- **Dashboard:** Interactive visualizations for key metrics.
+- **Report:** Interactive visualizations for key metrics.
 
 ---
 
@@ -69,7 +69,7 @@ The aim of this project is to leverage data analysis to provide actionable insig
 1. Download the project files from this repository.
 2. Open the Excel workbook to explore the data analysis and visualizations.
 3. Refer to the documentation for detailed insights and methodologies.
-4. Use the dashboard to interactively explore key metrics and trends.
+4. Use the report to interactively explore key metrics and trends.
 
 ---
 
